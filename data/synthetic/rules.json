@@ -1,0 +1,20 @@
+{
+  "reference_date": "2026-05-31",
+  "monthly_simple_interest_rate": 0.01,
+  "monthly_indices": {
+    "2025-09": 101.2,
+    "2025-11": 103.4,
+    "2026-05": 107.1
+  },
+  "appeal_cost_by_court": {
+    "DEMO-A": 1800,
+    "DEMO-B": 400
+  },
+  "reversal_probability_by_evidence_status": {
+    "complete": 0.65,
+    "partial": 0.4,
+    "missing": 0.15
+  },
+  "human_review_margin_ratio": 0.1,
+  "max_batch_size": 10
+}

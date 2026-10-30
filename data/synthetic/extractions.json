@@ -1,0 +1,36 @@
+[
+  {
+    "case_id": "DEMO-001",
+    "outcome": "partial_award",
+    "material_damages": 4000.00,
+    "moral_damages": 1000.00,
+    "extracted_award": 4990.00,
+    "correction_start_month": "2025-11",
+    "citation_date": "2026-01-15",
+    "evidence_status": "complete",
+    "court_code": "DEMO-A",
+    "dispositive_excerpt": "Fictional example: partial award with material and moral damages."
+  },
+  {
+    "case_id": "DEMO-002",
+    "outcome": "dismissed",
+    "material_damages": 0,
+    "moral_damages": 0,
+    "correction_start_month": null,
+    "citation_date": null,
+    "evidence_status": "partial",
+    "court_code": "DEMO-A",
+    "dispositive_excerpt": "Fictional example: claim dismissed; no current award."
+  },
+  {
+    "case_id": "DEMO-003",
+    "outcome": "full_award",
+    "material_damages": 2500.00,
+    "moral_damages": 0,
+    "correction_start_month": "2025-09",
+    "citation_date": "2025-12-10",
+    "evidence_status": "missing",
+    "court_code": "DEMO-B",
+    "dispositive_excerpt": "Fictional example: award for material damages."
+  }
+]

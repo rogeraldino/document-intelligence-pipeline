@@ -1,0 +1,13 @@
+flowchart LR
+    A[Textos de decisão] --> B[Extração assistida por LLM]
+    B --> C[Contrato estruturado por caso]
+    C --> D[Validação e normalização]
+    D --> E[Regras determinísticas]
+    E --> F[Correção monetária e juros]
+    E --> G[Estimativa econômica]
+    F --> H[Auditoria e reconciliação]
+    G --> H
+    H --> I[CSV por caso]
+    H --> J[Síntese executiva]
+    K[Índices, custos e premissas] --> E
+    L[Revisão humana] --> J

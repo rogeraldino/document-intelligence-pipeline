@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "input_count": 3,
+  "output_count": 3,
+  "batch_count": 1,
+  "max_batch_size": 10,
+  "duplicate_ids": false,
+  "financial_reconciliation": true,
+  "errors": []
+}
